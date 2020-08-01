@@ -13,6 +13,9 @@ ng serve -o (it will automatically open localhost:4200)
 ```
 
 #### TODO
-- [x] Tempalate ready
+- [x] Template ready
 - [ ] more features
 - [ ] upload to github
+
+#### Initial Screenshot
+![](dashboard.png)
