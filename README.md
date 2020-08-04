@@ -17,5 +17,5 @@ ng serve -o (it will automatically open localhost:4200)
 - [ ] more features
 - [ ] upload to github
 
-#### Initial Screenshot
+#### demo screenshot
 ![](dashboard.png)
